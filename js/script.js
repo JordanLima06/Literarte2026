@@ -8,7 +8,7 @@
 // Pode ser alterado quando o horário oficial for definido.
 
 document.addEventListener("DOMContentLoaded", () => {
-    const dataEvento = new Date(2026, 11, 17, 0, 0, 0).getTime();
+    const dataEvento = new Date(2026, 11, 16, 0, 0, 0).getTime();
 
     const diasElemento = document.getElementById("days");
     const horasElemento = document.getElementById("hours");
